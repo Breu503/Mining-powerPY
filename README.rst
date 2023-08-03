@@ -1,4 +1,4 @@
-minepy - Maximal Information-based Nonparametric Exploration
+Minepy - Maximal Information-based Nonparametric Exploration
 ============================================================
 
 .. image:: https://readthedocs.org/projects/minepy/badge/?version=latest
